@@ -103,7 +103,3 @@ pip install numpy pandas scikit-learn matplotlib jupyter
 - 🎯 **Clustering Validation**: Both K-Means and Agglomerative Clustering naturally discover patterns that align closely with the 3 underlying cultivars.
 - 🌌 **Information Compression**: PCA effectively collapses 13 dimensions into 2 or 3 components, retaining over 55% of the total variance for visualization.
 
----
-
-## 🤝 Contributing & Feedback
-Contributions, suggestions, and improvements are always welcome! Feel free to open an issue or submit a pull request. ✨
